@@ -5,14 +5,11 @@ The purpose of this program is to demonstrate how to define preprocessor macros.
 * Windows 10
 * Visual Studio 2022 or later
 
-### Step 1
-Download Zip
+## Steps
+1. Download Zip
 
-### Step 2
-Unzip
+2. Unzip
 
-### Step 3
-Double click the .sln file
+3. Double click the .sln file
 
-### Step 4
-Done!
+4. Done!
