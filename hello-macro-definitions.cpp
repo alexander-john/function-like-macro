@@ -4,12 +4,15 @@
 * Visual Studio 2022 or later
 * 
 * Step 1:
-* Open Visual Studio and make a C++ console application
+* Download Zip
 * 
 * Step 2:
-* Coy and paste this code into your source file
+* Unzip
 * 
 * Step 3:
+* Double click the .sln file
+* 
+* Step 4
 * Done!
 * 
 * The purpose of this program is to demonstrate how to define preprocessor macros.
